@@ -1,1 +1,1 @@
-// Main JS
+// Main JS web app
